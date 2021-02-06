@@ -1,0 +1,35 @@
+header {
+  margin-top: 80px;
+  height: 200px;
+  padding: 30px;
+  background: url("/images/pattern-circles.svg") no-repeat;
+  background-size: 150px;
+  background-position: center 0%;
+}
+
+header .header__title {
+  color: #293356;
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: .4em;
+}
+
+header .header__text {
+  color: #858fad;
+  text-align: center;
+  font-size: 1em;
+  line-height: 23px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: url("/images/bg-pattern.svg") no-repeat;
+  background-size: cover;
+}
+/*# sourceMappingURL=main.css.map */

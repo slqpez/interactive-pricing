@@ -1,0 +1,22 @@
+
+header{
+    margin-top: 80px;
+    height: 200px;
+    padding: 30px;
+    background: url('/images/pattern-circles.svg') no-repeat;
+    background-size: 150px;
+    background-position:center 0%; 
+    .header__title{
+        color: $Dark-Desaturated-Blue;
+        text-align: center;
+        
+        font-size: $Font-size-header-title;
+        margin-bottom: .4em;
+    }
+    .header__text{
+        color: $Grayish-Blue;
+        text-align: center;
+        font-size: $Font-size-header-text;
+        line-height: 23px;
+    }
+}
