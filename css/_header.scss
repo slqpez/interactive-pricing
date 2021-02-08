@@ -1,7 +1,7 @@
 
 header{
     margin-top: 80px;
-    height: 200px;
+    height: 190px;
     padding: 30px;
     background: url('/images/pattern-circles.svg') no-repeat;
     background-size: 150px;
@@ -9,7 +9,7 @@ header{
     .header__title{
         color: $Dark-Desaturated-Blue;
         text-align: center;
-        
+        font-size: 4em;
         font-size: $Font-size-header-title;
         margin-bottom: .4em;
     }
